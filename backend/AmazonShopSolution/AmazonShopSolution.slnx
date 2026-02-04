@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AmazonShop.Api/AmazonShop.Api.csproj" Id="0fb624ac-4a5a-4fe2-bc1e-959e26c65894" />
+  <Project Path="AmazonShop.Application/AmazonShop.Application.csproj" Id="ecc36aff-7c22-40b1-a542-40eaf86d0f21" />
+  <Project Path="AmazonShop.Domain/AmazonShop.Domain.csproj" Id="f1fe807b-896f-48b0-916a-58feb3e6d26d" />
+  <Project Path="AmazonShop.Infrastructure/AmazonShop.Infrastructure.csproj" Id="caf7f409-fe72-4ef9-a75f-2c9b190cde55" />
+</Solution>
